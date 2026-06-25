@@ -69,7 +69,7 @@ GTX is the highest-revenue series (₹7.34M of ₹10M total) but also home to th
 
 The Dashboard combines a line chart (monthly trend), clustered column charts (agent/product comparisons), a pie chart (deal stage mix), and a horizontal bar chart (top/bottom agent rankings), all driven by shared PivotTables. Three slicers (Manager, Regional Office, Series) plus a Close Date timeline filter every chart at once.
 
-![CRM Dashboard](Dashboard_IMG/CRM%20DASHBOARD_IMG.png)
+![CRM Dashboard](Dashboard_img/CRM%20DASHBOARD-IMG.png)
 
 ## Skills demonstrated
 
